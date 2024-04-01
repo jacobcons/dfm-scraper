@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Web scraper I made to traverse and download resources from [drfrost.org](https://www.drfrost.org/courses.php?sid=2596) for a student that I tutor in maths after he requested I send him all files under the year 10 and 11 sections
+Web scraper I made, using playwright, to traverse and download resources from [drfrost.org](https://www.drfrost.org/courses.php?sid=2596) for a student that I tutor in maths after he requested I send him all files under the year 10 and 11 sections
 
 ## Usage
 
