@@ -1,0 +1,15 @@
+{
+  "name": "dfm-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.42.1",
+    "yargs": "^17.7.2"
+  }
+}
