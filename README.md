@@ -6,7 +6,7 @@ Web scraper I made, using playwright, to traverse and download resources from [d
 
 ## Usage
 
-Just run `node index.js` without any args to download year 11 files to a downloads folder
+Just run `node index.js` without any args to download year 11 files to a folder called downloads
 
 ```bash
 Usage: index.js [-u url] [-d directory]
