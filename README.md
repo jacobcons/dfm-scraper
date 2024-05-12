@@ -1,10 +1,11 @@
 # dfm-scraper
 
-## What is this?
-
 Web scraper I made, using playwright, to traverse and download resources from [drfrost.org](https://www.drfrost.org/courses.php?sid=2596) for a student that I tutor in maths after he requested I send him all files under the year 10 and 11 sections
 
 ## Getting started
+
+Just run `node index.js` without any args to download year 11 files to a folder called downloads
+
 
 1. `npm i` - install npm packages
 2. `node index.js` - download year 11 files to a downloads folder
