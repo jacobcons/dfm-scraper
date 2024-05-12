@@ -4,9 +4,6 @@ Web scraper I made, using playwright, to traverse and download resources from [d
 
 ## Getting started
 
-Just run `node index.js` without any args to download year 11 files to a folder called downloads
-
-
 1. `npm i` - install npm packages
 2. `node index.js` - download year 11 files to a downloads folder
 ```bash
